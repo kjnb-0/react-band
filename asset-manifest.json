@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-band/static/css/main.19d08186.chunk.css",
+    "main.js": "/react-band/static/js/main.ab52fb4f.chunk.js",
+    "main.js.map": "/react-band/static/js/main.ab52fb4f.chunk.js.map",
+    "runtime-main.js": "/react-band/static/js/runtime-main.12ffb60e.js",
+    "runtime-main.js.map": "/react-band/static/js/runtime-main.12ffb60e.js.map",
+    "static/js/2.e5e35243.chunk.js": "/react-band/static/js/2.e5e35243.chunk.js",
+    "static/js/2.e5e35243.chunk.js.map": "/react-band/static/js/2.e5e35243.chunk.js.map",
+    "static/js/3.51978314.chunk.js": "/react-band/static/js/3.51978314.chunk.js",
+    "static/js/3.51978314.chunk.js.map": "/react-band/static/js/3.51978314.chunk.js.map",
+    "index.html": "/react-band/index.html",
+    "static/css/main.19d08186.chunk.css.map": "/react-band/static/css/main.19d08186.chunk.css.map",
+    "static/js/2.e5e35243.chunk.js.LICENSE.txt": "/react-band/static/js/2.e5e35243.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-band/static/media/hero3.ceb9f9a6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12ffb60e.js",
+    "static/js/2.e5e35243.chunk.js",
+    "static/css/main.19d08186.chunk.css",
+    "static/js/main.ab52fb4f.chunk.js"
+  ]
+}
